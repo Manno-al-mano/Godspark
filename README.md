@@ -13,4 +13,5 @@ For a full visual showcase, here is the link: https://www.youtube.com/watch?v=3W
 * C++: Programming Language
 * Unreal Engine 5: the engine
 * Visual Studio: the IDE
-
+## Credits
+I would like to credit floraphonic, Pixabay and DavidDumaisAudio for creating sound assets used in actual project
